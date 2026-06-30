@@ -11,16 +11,17 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="testrestapiProject">1.0</value>
+    <value name="RestOpenApi">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">1</value>
+  <value name="build">2</value>
   <null name="description"/>
   <value name="created_date">30-06-2026 10:09:17 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-06-30T10:16:08.291414194Z</value>
+  <value name="lastUpdated">2026-06-30T10:58:32.021750823Z</value>
 </Values>
