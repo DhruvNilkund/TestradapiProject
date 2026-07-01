@@ -2,7 +2,7 @@ version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: testrestapiProject
+- name: TestrestapiProject
   gitServerName: DhruvNilkund
   gitUrl: https://github.com/DhruvNilkund
   gitUsername: DhruvNilkund
