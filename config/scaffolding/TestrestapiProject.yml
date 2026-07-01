@@ -1,17 +1,6 @@
 version: "1.0"
 info:
   model: int-scaffold
-packages:
-- name: TestrestapiProject
-  gitServerName: DhruvNilkund
-  gitUrl: https://github.com/DhruvNilkund
-  gitUsername: DhruvNilkund
-  gitBranch: main
-- name: RestOpenApi
-  gitServerName: DhruvNilkund
-  gitUrl: https://github.com/DhruvNilkund
-  gitUsername: DhruvNilkund
-  gitBranch: main
 services:
 - serviceName: testrestapi0.new_rad_.services:createPets
   packages:
